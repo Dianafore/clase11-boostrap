@@ -1,0 +1,26 @@
+h1{
+    font-size: 8rem;
+}
+.color-boton{
+    background-color: rgb(111, 109, 109);
+    color: white;
+
+}
+.btn:hover{
+    color: black;
+    background-color: rgb(217, 213, 213);
+    border-color: var(--bs-btn-hover-border-color);
+}
+.row{
+    justify-content: space-evenly;
+}
+.card{
+    background: black;
+}
+.navbar{
+    padding: 2rem;
+
+}
+.color-nav{
+    background-color: rgb(210, 210, 243);
+}
